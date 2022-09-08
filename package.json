@@ -50,7 +50,7 @@
     "dtslint": "github:gcanti/dtslint",
     "eslint": "^7.31.0",
     "eslint-config-prettier": "^8.3.0",
-    "eslint-import-resolver-typescript": "^2.3.0",
+    "eslint-import-resolver-typescript": "^3.5.1",
     "eslint-plugin-codegen": "^0.16.0",
     "eslint-plugin-import": "^2.23.4",
     "eslint-plugin-jest": "^24.4.0",
